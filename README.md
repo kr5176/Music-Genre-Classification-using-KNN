@@ -15,15 +15,15 @@ The project uses the GTZAN Dataset from [Kaggle](https://kaggle.com), which incl
 
 Link to the dataset on Kaggle : [GTZAN music genre classification dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
-### 🎛️ Features Extraction
+### 🎛️ Features Extraction:
 Using the Librosa library, we extract several key features from each audio file:
 
 Model performance is evaluated based on accuracy and confusion matrix.
 
-### 📊 Results
+### 📊 Results:
 After training and testing, the KNN model achieves an accuracy of approximately X% (adjust based on your results) on the GTZAN dataset. The confusion matrix reveals performance across different genres, highlighting any specific challenges in classification.
 
-### 🤝 Acknowledgments
+### 🤝 Acknowledgments:
 This project is based on the GTZAN Dataset hosted on Kaggle. Special thanks to the contributors for making this dataset available for research and experimentation.
 
 
